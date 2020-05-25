@@ -1,0 +1,3968 @@
+fileFormatVersion: 2
+guid: e74d99cbf95bef34986f684b72b9a7ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5172003192082493605
+    second: MegaMan pickups and hazards_0
+  - first:
+      213: 283991605027748040
+    second: MegaMan pickups and hazards_1
+  - first:
+      213: 7333731811508338872
+    second: MegaMan pickups and hazards_2
+  - first:
+      213: 253691266592746961
+    second: MegaMan pickups and hazards_3
+  - first:
+      213: -5116103074193173436
+    second: MegaMan pickups and hazards_4
+  - first:
+      213: -4694587159049919444
+    second: MegaMan pickups and hazards_5
+  - first:
+      213: 3631373447573616674
+    second: MegaMan pickups and hazards_6
+  - first:
+      213: 7208908100875966915
+    second: MegaMan pickups and hazards_7
+  - first:
+      213: 7364645673800117119
+    second: MegaMan pickups and hazards_8
+  - first:
+      213: -296896287770025174
+    second: MegaMan pickups and hazards_9
+  - first:
+      213: 3109759715099112224
+    second: MegaMan pickups and hazards_10
+  - first:
+      213: 7990910957877971510
+    second: MegaMan pickups and hazards_11
+  - first:
+      213: 1772585554158772769
+    second: MegaMan pickups and hazards_12
+  - first:
+      213: 8120440346113298343
+    second: MegaMan pickups and hazards_13
+  - first:
+      213: 101085708317889986
+    second: MegaMan pickups and hazards_14
+  - first:
+      213: 6089691037339790926
+    second: MegaMan pickups and hazards_15
+  - first:
+      213: -2377243016257962539
+    second: MegaMan pickups and hazards_16
+  - first:
+      213: 1197476981323807173
+    second: MegaMan pickups and hazards_17
+  - first:
+      213: 6133301353867282155
+    second: MegaMan pickups and hazards_18
+  - first:
+      213: 1175258292533443894
+    second: MegaMan pickups and hazards_19
+  - first:
+      213: 9114483702113763902
+    second: MegaMan pickups and hazards_20
+  - first:
+      213: 6013320470312787804
+    second: MegaMan pickups and hazards_21
+  - first:
+      213: -7715486070390953971
+    second: MegaMan pickups and hazards_22
+  - first:
+      213: -3514273803556113827
+    second: MegaMan pickups and hazards_23
+  - first:
+      213: -8173329223516298075
+    second: MegaMan pickups and hazards_24
+  - first:
+      213: -7672760946254575137
+    second: MegaMan pickups and hazards_25
+  - first:
+      213: -4273983722143902638
+    second: MegaMan pickups and hazards_26
+  - first:
+      213: 8220177399410203056
+    second: MegaMan pickups and hazards_27
+  - first:
+      213: -6243502218393492084
+    second: MegaMan pickups and hazards_28
+  - first:
+      213: -418312566400237653
+    second: MegaMan pickups and hazards_29
+  - first:
+      213: -965422372920701678
+    second: MegaMan pickups and hazards_30
+  - first:
+      213: 6771603529636238417
+    second: MegaMan pickups and hazards_31
+  - first:
+      213: 3108235988113932514
+    second: MegaMan pickups and hazards_32
+  - first:
+      213: 3343505826534314804
+    second: MegaMan pickups and hazards_33
+  - first:
+      213: 1958440009124445928
+    second: MegaMan pickups and hazards_34
+  - first:
+      213: -5060208041418723826
+    second: MegaMan pickups and hazards_35
+  - first:
+      213: -6871177147556910850
+    second: MegaMan pickups and hazards_36
+  - first:
+      213: 1602165828625632587
+    second: MegaMan pickups and hazards_37
+  - first:
+      213: -194748436053208297
+    second: Red turret 3 L
+  - first:
+      213: 2180107519250307836
+    second: Red Turret 2 L
+  - first:
+      213: -113711366399806870
+    second: Red turret L
+  - first:
+      213: 2983552358806011827
+    second: MegaMan pickups and hazards_41
+  - first:
+      213: 7526334041833376917
+    second: MegaMan pickups and hazards_42
+  - first:
+      213: -6001256008697227865
+    second: MegaMan pickups and hazards_43
+  - first:
+      213: -2245069808997840422
+    second: Green turret 3 L
+  - first:
+      213: 6613594812168934969
+    second: Green turret2 L
+  - first:
+      213: -2778908453856544494
+    second: Green Turret L
+  - first:
+      213: 4036969909517573295
+    second: MegaMan pickups and hazards_47
+  - first:
+      213: 4573107397715622479
+    second: MegaMan pickups and hazards_48
+  - first:
+      213: 8614663659218903528
+    second: MegaMan pickups and hazards_49
+  - first:
+      213: -7814307150883899960
+    second: MegaMan pickups and hazards_50
+  - first:
+      213: 37125313523780935
+    second: MegaMan pickups and hazards_51
+  - first:
+      213: 1686480761633484683
+    second: MegaMan pickups and hazards_52
+  - first:
+      213: -3112189627549186058
+    second: MegaMan pickups and hazards_53
+  - first:
+      213: 2151557886970393516
+    second: MegaMan pickups and hazards_54
+  - first:
+      213: -315688241896116315
+    second: MegaMan pickups and hazards_55
+  - first:
+      213: 5374039706768076435
+    second: MegaMan pickups and hazards_56
+  - first:
+      213: -2336245261775186254
+    second: MegaMan pickups and hazards_57
+  - first:
+      213: 8833736189613386101
+    second: MegaMan pickups and hazards_58
+  - first:
+      213: -7639435645844817902
+    second: MegaMan pickups and hazards_59
+  - first:
+      213: 5581369414054522178
+    second: MegaMan pickups and hazards_60
+  - first:
+      213: -7613944099987072049
+    second: MegaMan pickups and hazards_61
+  - first:
+      213: -4600874810717445033
+    second: MegaMan pickups and hazards_62
+  - first:
+      213: 7265463273779057110
+    second: MegaMan pickups and hazards_63
+  - first:
+      213: 3884606512359554339
+    second: MegaMan pickups and hazards_64
+  - first:
+      213: 5195424441860053987
+    second: MegaMan pickups and hazards_65
+  - first:
+      213: 6291394611602871963
+    second: MegaMan pickups and hazards_66
+  - first:
+      213: 2547892673646462727
+    second: MegaMan pickups and hazards_67
+  - first:
+      213: -4989314157502364862
+    second: MegaMan pickups and hazards_68
+  - first:
+      213: 758235370375980336
+    second: MegaMan pickups and hazards_69
+  - first:
+      213: -4455228528345523446
+    second: MegaMan pickups and hazards_70
+  - first:
+      213: -579978056978845425
+    second: MegaMan pickups and hazards_71
+  - first:
+      213: -5111907803909372968
+    second: MegaMan pickups and hazards_72
+  - first:
+      213: 1294145082996713437
+    second: MegaMan pickups and hazards_73
+  - first:
+      213: 2210044175455227845
+    second: MegaMan pickups and hazards_74
+  - first:
+      213: 1286038564938418896
+    second: MegaMan pickups and hazards_75
+  - first:
+      213: -7634461266557640479
+    second: MegaMan pickups and hazards_76
+  - first:
+      213: 2394400588430504729
+    second: MegaMan pickups and hazards_77
+  - first:
+      213: -1361251426248578038
+    second: MegaMan pickups and hazards_78
+  - first:
+      213: 4858979136049745755
+    second: MegaMan pickups and hazards_79
+  - first:
+      213: -6359503021405717746
+    second: MegaMan pickups and hazards_80
+  - first:
+      213: 5360374568643627506
+    second: MegaMan pickups and hazards_81
+  - first:
+      213: -3611606019848761978
+    second: MegaMan pickups and hazards_82
+  - first:
+      213: -4948424151127961542
+    second: MegaMan pickups and hazards_83
+  - first:
+      213: -3266269396490695680
+    second: MegaMan pickups and hazards_84
+  - first:
+      213: -7689724215412833639
+    second: MegaMan pickups and hazards_85
+  - first:
+      213: 7259811633754381974
+    second: MegaMan pickups and hazards_86
+  - first:
+      213: 6464024825127815372
+    second: MegaMan pickups and hazards_87
+  - first:
+      213: -7958497475837895679
+    second: MegaMan pickups and hazards_88
+  - first:
+      213: -4391128565144099071
+    second: MegaMan pickups and hazards_89
+  - first:
+      213: -914150752707938695
+    second: MegaMan pickups and hazards_90
+  - first:
+      213: -4948431804391935804
+    second: MegaMan pickups and hazards_91
+  - first:
+      213: -4312632194782623522
+    second: MegaMan pickups and hazards_92
+  - first:
+      213: 2078464747761576174
+    second: MegaMan pickups and hazards_93
+  - first:
+      213: -9161453771772285381
+    second: MegaMan pickups and hazards_94
+  - first:
+      213: -3844083425862782590
+    second: MegaMan pickups and hazards_95
+  - first:
+      213: 6962819648652187285
+    second: MegaMan pickups and hazards_96
+  - first:
+      213: 3541422385983571142
+    second: MegaMan pickups and hazards_97
+  - first:
+      213: 7170336215742069242
+    second: MegaMan pickups and hazards_98
+  - first:
+      213: 7368744655907587308
+    second: MegaMan pickups and hazards_99
+  - first:
+      213: 7103395492424425105
+    second: Megaman bullet Left
+  - first:
+      213: 1381367704108338221
+    second: MegaMan pickups and hazards_101
+  - first:
+      213: 3477276191302585562
+    second: MegaMan pickups and hazards_102
+  - first:
+      213: -8715640169011849272
+    second: MegaMan pickups and hazards_103
+  - first:
+      213: 7202443600782420833
+    second: MegaMan pickups and hazards_104
+  - first:
+      213: -3381274011359823509
+    second: MegaMan pickups and hazards_105
+  - first:
+      213: 2918965122597243679
+    second: MegaMan pickups and hazards_106
+  - first:
+      213: 6482881645386232410
+    second: MegaMan pickups and hazards_107
+  - first:
+      213: 851009911828904935
+    second: MegaMan pickups and hazards_108
+  - first:
+      213: 6926028332230593919
+    second: MegaMan pickups and hazards_109
+  - first:
+      213: -6327576247778745672
+    second: MegaMan pickups and hazards_110
+  - first:
+      213: -3620104488957084232
+    second: MegaMan pickups and hazards_111
+  - first:
+      213: -7802186295029717037
+    second: MegaMan pickups and hazards_112
+  - first:
+      213: 7637022455607963728
+    second: MegaMan pickups and hazards_113
+  - first:
+      213: 9215955583336351290
+    second: Megaman bullet right
+  - first:
+      213: -1689240175217031910
+    second: MegaMan pickups and hazards_115
+  - first:
+      213: -4581047617099363553
+    second: MegaMan pickups and hazards_116
+  - first:
+      213: -7493809140116760352
+    second: MegaMan pickups and hazards_117
+  - first:
+      213: -8259390399981916077
+    second: MegaMan pickups and hazards_118
+  - first:
+      213: 3685935852818931657
+    second: MegaMan pickups and hazards_119
+  - first:
+      213: -141121070976355893
+    second: MegaMan pickups and hazards_120
+  - first:
+      213: 1804177742516134806
+    second: MegaMan pickups and hazards_121
+  - first:
+      213: 6225105097964785729
+    second: MegaMan pickups and hazards_122
+  - first:
+      213: 7726947613029156147
+    second: MegaMan pickups and hazards_123
+  - first:
+      213: 2383842637390681889
+    second: MegaMan pickups and hazards_124
+  - first:
+      213: -5007670605506776637
+    second: MegaMan pickups and hazards_125
+  - first:
+      213: -7936730300219145050
+    second: LifeUp
+  - first:
+      213: -252427023982023816
+    second: MegaMan pickups and hazards_127
+  - first:
+      213: -594366541394546262
+    second: Health
+  - first:
+      213: 2741950714899713075
+    second: MegaMan pickups and hazards_129
+  - first:
+      213: -3889036808493929407
+    second: MegaMan pickups and hazards_130
+  - first:
+      213: 6696251022818100711
+    second: MegaMan pickups and hazards_131
+  - first:
+      213: -7838944591376530539
+    second: MegaMan pickups and hazards_132
+  - first:
+      213: -4589434277084299535
+    second: MegaMan pickups and hazards_133
+  - first:
+      213: 5308676094358290662
+    second: MegaMan pickups and hazards_134
+  - first:
+      213: -4254385223552406324
+    second: MegaMan pickups and hazards_135
+  - first:
+      213: 2892669977839762882
+    second: MegaMan pickups and hazards_136
+  - first:
+      213: 7276596376931868607
+    second: MegaMan pickups and hazards_137
+  - first:
+      213: -6874252196810125025
+    second: MegaMan pickups and hazards_138
+  - first:
+      213: -3475509429635907243
+    second: MegaMan pickups and hazards_139
+  - first:
+      213: 475524255791064112
+    second: MegaMan pickups and hazards_140
+  - first:
+      213: -19057778632512732
+    second: MegaMan pickups and hazards_141
+  - first:
+      213: -7558717536381084263
+    second: MegaMan pickups and hazards_142
+  - first:
+      213: -2319241465267876901
+    second: MegaMan pickups and hazards_143
+  - first:
+      213: 4909580133825900760
+    second: MegaMan pickups and hazards_144
+  - first:
+      213: -5919659804031256703
+    second: MegaMan pickups and hazards_145
+  - first:
+      213: 7833958163832672084
+    second: MegaMan pickups and hazards_146
+  - first:
+      213: -1819153360407530933
+    second: MegaMan pickups and hazards_147
+  - first:
+      213: 4877990914519004428
+    second: MegaMan pickups and hazards_148
+  - first:
+      213: 411575338518395890
+    second: MegaMan pickups and hazards_149
+  - first:
+      213: 9050790108015370352
+    second: MegaMan pickups and hazards_150
+  - first:
+      213: 4192848585031351978
+    second: MegaMan pickups and hazards_151
+  - first:
+      213: -6387071392654919922
+    second: MegaMan pickups and hazards_152
+  - first:
+      213: -578968229084350398
+    second: MegaMan pickups and hazards_153
+  - first:
+      213: 8897309026200533005
+    second: MegaMan pickups and hazards_154
+  - first:
+      213: 3047058545232495178
+    second: MegaMan pickups and hazards_155
+  - first:
+      213: -1433234717683773136
+    second: MegaMan pickups and hazards_156
+  - first:
+      213: 1863480516055632669
+    second: MegaMan pickups and hazards_157
+  - first:
+      213: 8699114025124188449
+    second: MegaMan pickups and hazards_158
+  - first:
+      213: 3570528619611259547
+    second: MegaMan pickups and hazards_159
+  - first:
+      213: 2086214616506481189
+    second: MegaMan pickups and hazards_160
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 634
+        width: 16
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a073413085a6c740800000000000000
+      internalID: 5172003192082493605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 634
+        width: 16
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c83fd03cd0f0f300800000000000000
+      internalID: 283991605027748040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 634
+        width: 16
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0cfee0a36a6c560800000000000000
+      internalID: 7333731811508338872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 634
+        width: 16
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd21e3ecda458300800000000000000
+      internalID: 253691266592746961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 634
+        width: 16
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4449e6c3c53fff8b0800000000000000
+      internalID: -5116103074193173436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 634
+        width: 16
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2428b11ad979deb0800000000000000
+      internalID: -4694587159049919444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 634
+        width: 16
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228396529ea356230800000000000000
+      internalID: 3631373447573616674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 634
+        width: 16
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9d52b29bf2b0460800000000000000
+      internalID: 7208908100875966915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 634
+        width: 16
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b2973883a743660800000000000000
+      internalID: 7364645673800117119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 634
+        width: 16
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23e558366631ebf0800000000000000
+      internalID: -296896287770025174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 634
+        width: 16
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0237d431cf5182b20800000000000000
+      internalID: 3109759715099112224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 634
+        width: 16
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac714bd2b65ee60800000000000000
+      internalID: 7990910957877971510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 615
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1226f918b2d799810800000000000000
+      internalID: 1772585554158772769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 615
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af45d9887991b070800000000000000
+      internalID: 8120440346113298343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 597
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c518288ae0276100800000000000000
+      internalID: 101085708317889986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 597
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ea480ebbde28450800000000000000
+      internalID: 6089691037339790926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 579
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7a276216520fd0800000000000000
+      internalID: -2377243016257962539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 579
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9338258fa4e9010800000000000000
+      internalID: 1197476981323807173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 561
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be68ea1f51ddd1550800000000000000
+      internalID: 6133301353867282155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 561
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63db9c5b03b5f4010800000000000000
+      internalID: 1175258292533443894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 543
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32049fe2a62d7e70800000000000000
+      internalID: 9114483702113763902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 543
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f14999b1b937350800000000000000
+      internalID: 6013320470312787804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 525
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d086fd02c461de490800000000000000
+      internalID: -7715486070390953971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 525
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52b397589aca3fc0800000000000000
+      internalID: -3514273803556113827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 507
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4edf71060829e80800000000000000
+      internalID: -8173329223516298075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 507
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd981084290e48590800000000000000
+      internalID: -7672760946254575137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 489
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2549fc10372cfa4c0800000000000000
+      internalID: -4273983722143902638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 489
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b91a8adacfe31270800000000000000
+      internalID: 8220177399410203056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 471
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85ea46dfcf9a59a0800000000000000
+      internalID: -6243502218393492084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 471
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafb1aaefead13af0800000000000000
+      internalID: -418312566400237653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 453
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dc8d387712a92f0800000000000000
+      internalID: -965422372920701678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 453
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154dfbf588199fd50800000000000000
+      internalID: 6771603529636238417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_32
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 433
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0cd9db92ca22b20800000000000000
+      internalID: 3108235988113932514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 433
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d607a5d4866e20800000000000000
+      internalID: 3343505826534314804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 413
+        width: 81
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee76c1efc6cd2b10800000000000000
+      internalID: 1958440009124445928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 413
+        width: 81
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e69a1b89786c9b0800000000000000
+      internalID: -5060208041418723826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 393
+        width: 81
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8a6131acca4a0a0800000000000000
+      internalID: -6871177147556910850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 393
+        width: 81
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d008e15590c3610800000000000000
+      internalID: 1602165828625632587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red turret 3 L
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 359
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7135c78445d1c4df0800000000000000
+      internalID: -194748436053208297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Turret 2 L
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 365
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa9211fc3c414e10800000000000000
+      internalID: 2180107519250307836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red turret L
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 371
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62b0de5d140c6ef0800000000000000
+      internalID: -113711366399806870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 371
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf39631015b76920800000000000000
+      internalID: 2983552358806011827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_42
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 365
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c88605fe8e27860800000000000000
+      internalID: 7526334041833376917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 359
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a55c63c47147bca0800000000000000
+      internalID: -6001256008697227865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green turret 3 L
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 326
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9cab257e8e7d0e0800000000000000
+      internalID: -2245069808997840422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green turret2 L
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 332
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93612bbf07538cb50800000000000000
+      internalID: 6613594812168934969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Turret L
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 338
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219fc880c755f69d0800000000000000
+      internalID: -2778908453856544494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 338
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac5cb17eb2360830800000000000000
+      internalID: 4036969909517573295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_48
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 332
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4afc88e2f0f67f30800000000000000
+      internalID: 4573107397715622479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 326
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1a533a4fe6d8770800000000000000
+      internalID: 8614663659218903528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 306
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c535c95c010e8390800000000000000
+      internalID: -7814307150883899960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 306
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d82c4a645e38000800000000000000
+      internalID: 37125313523780935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 306
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fa1bd3155976710800000000000000
+      internalID: 1686480761633484683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 273
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f78648d5084fc4d0800000000000000
+      internalID: -3112189627549186058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 273
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca37f8eaf7edbdd10800000000000000
+      internalID: 2151557886970393516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 306
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afa30277337e9bf0800000000000000
+      internalID: -315688241896116315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_56
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 306
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e61c2f3ac649a40800000000000000
+      internalID: 5374039706768076435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_57
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 306
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b653b7ff4df39fd0800000000000000
+      internalID: -2336245261775186254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_58
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 282
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5792b65e24cb79a70800000000000000
+      internalID: 8833736189613386101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 281
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21876fc61c54bf590800000000000000
+      internalID: -7639435645844817902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_60
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 281
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d23f429e1057d40800000000000000
+      internalID: 5581369414054522178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_61
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 282
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd6947e26d55690800000000000000
+      internalID: -7613944099987072049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_62
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 237
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754e4237cb86620c0800000000000000
+      internalID: -4600874810717445033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_63
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 237
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d15f3a7a5c14d460800000000000000
+      internalID: 7265463273779057110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_64
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 237
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d3c5d9a05e8e530800000000000000
+      internalID: 3884606512359554339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_65
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 237
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb537ad00bd91840800000000000000
+      internalID: 5195424441860053987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 237
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b965566e0168f4750800000000000000
+      internalID: 6291394611602871963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_67
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 237
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707848a23eeeb5320800000000000000
+      internalID: 2547892673646462727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_68
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 237
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2438e31553562cab0800000000000000
+      internalID: -4989314157502364862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_69
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 237
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035a5635d0bc58a00800000000000000
+      internalID: 758235370375980336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_70
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 210
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b57ce1249db22c0800000000000000
+      internalID: -4455228528345523446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 210
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f013140b70183f7f0800000000000000
+      internalID: -579978056978845425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 210
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d34f67bfeade09b0800000000000000
+      internalID: -5111907803909372968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 210
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd766d7a81ab5f110800000000000000
+      internalID: 1294145082996713437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_74
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 210
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf0eefd777abae10800000000000000
+      internalID: 2210044175455227845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_75
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 210
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da8b96d24de8d110800000000000000
+      internalID: 1286038564938418896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_76
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e06a5b5de1fc0690800000000000000
+      internalID: -7634461266557640479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913f26b26ae9a3120800000000000000
+      internalID: 2394400588430504729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_78
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ca5704a0ddb1de0800000000000000
+      internalID: -1361251426248578038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_79
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f874fb7cf8e6340800000000000000
+      internalID: 4858979136049745755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_80
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bb61532b18eb7a0800000000000000
+      internalID: -6359503021405717746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f98a0b0540e36a40800000000000000
+      internalID: 5360374568643627506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_82
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 192
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d8046c57ff0edc0800000000000000
+      internalID: -3611606019848761978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_83
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30dd02d37aa35bb0800000000000000
+      internalID: -4948424151127961542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_84
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 192
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c41711a41eba2d0800000000000000
+      internalID: -3266269396490695680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_85
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 192
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9924997619c984590800000000000000
+      internalID: -7689724215412833639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_86
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e9d2e773800c460800000000000000
+      internalID: 7259811633754381974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_87
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8cc01a454d4b950800000000000000
+      internalID: 6464024825127815372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_88
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cd6de26bcbd8190800000000000000
+      internalID: -7958497475837895679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_89
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107e38fc5d39f03c0800000000000000
+      internalID: -4391128565144099071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_90
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976ffa9dbb84053f0800000000000000
+      internalID: -914150752707938695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_91
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c039f7ed73a35bb0800000000000000
+      internalID: -4948431804391935804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_92
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8811f3ed37624c0800000000000000
+      internalID: -4312632194782623522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 174
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee820880da038dc10800000000000000
+      internalID: 2078464747761576174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_94
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 174
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea953855afbd080800000000000000
+      internalID: -9161453771772285381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_95
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 155
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2817b72bd7217aac0800000000000000
+      internalID: -3844083425862782590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_96
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 155
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59616017497e0a060800000000000000
+      internalID: 6962819648652187285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_97
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 155
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4ca2495e8a52130800000000000000
+      internalID: 3541422385983571142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_98
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 155
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9bc635cc6228360800000000000000
+      internalID: 7170336215742069242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_99
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 132
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce40ee7293a034660800000000000000
+      internalID: 7368744655907587308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaman bullet Left
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 132
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e9111a094549260800000000000000
+      internalID: 7103395492424425105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_101
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 132
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c039bab9a9b2310800000000000000
+      internalID: 1381367704108338221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc8388c544c14030800000000000000
+      internalID: 3477276191302585562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_103
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 132
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c75ce79173db0780800000000000000
+      internalID: -8715640169011849272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_104
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 132
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16beb637b4834f360800000000000000
+      internalID: 7202443600782420833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_105
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 132
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6933a0933d4311d0800000000000000
+      internalID: -3381274011359823509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_106
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc92c405f328820800000000000000
+      internalID: 2918965122597243679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_107
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 132
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52752a3282d7f950800000000000000
+      internalID: 6482881645386232410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_108
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebf5e681056fcb00800000000000000
+      internalID: 851009911828904935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_109
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 132
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d45ee82123e1060800000000000000
+      internalID: 6926028332230593919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_110
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 132
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2e2f57deeef28a0800000000000000
+      internalID: -6327576247778745672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_111
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 132
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd7aedb52ec2cdc0800000000000000
+      internalID: -3620104488957084232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_112
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7255507e019b390800000000000000
+      internalID: -7802186295029717037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_113
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 132
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b130f5772cf960800000000000000
+      internalID: 7637022455607963728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaman bullet right
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 132
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368a8a56c6a5ef70800000000000000
+      internalID: 9215955583336351290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_115
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 132
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15ced7b20d9e88e0800000000000000
+      internalID: -1689240175217031910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_116
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b84a3b679dc60c0800000000000000
+      internalID: -4581047617099363553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_117
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8d3cc7a44a00890800000000000000
+      internalID: -7493809140116760352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_118
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3507ecbf030c06d80800000000000000
+      internalID: -8259390399981916077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_119
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf16241123172330800000000000000
+      internalID: 3685935852818931657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b1263223aa0ef0800000000000000
+      internalID: -141121070976355893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_121
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693275e091ab90910800000000000000
+      internalID: 1804177742516134806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_122
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1401aa5ca14046650800000000000000
+      internalID: 6225105097964785729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_123
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335c7a83ae1ab3b60800000000000000
+      internalID: 7726947613029156147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_124
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1271a12af3c151120800000000000000
+      internalID: 2383842637390681889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_125
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c17a96bd1e218ab0800000000000000
+      internalID: -5007670605506776637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUp
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 105
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4cb51b7d11bd190800000000000000
+      internalID: -7936730300219145050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_127
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 105
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ba7d785f23f7cf0800000000000000
+      internalID: -252427023982023816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 105
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1fcc997c260c7f0800000000000000
+      internalID: -594366541394546262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_129
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 105
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cc931d5ad5d0620800000000000000
+      internalID: 2741950714899713075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_130
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 105
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cec4fa0ad570ac0800000000000000
+      internalID: -3889036808493929407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_131
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 88
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e54be5b3dcddec50800000000000000
+      internalID: 6696251022818100711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_132
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 88
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59348093d69763390800000000000000
+      internalID: -7838944591376530539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_133
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 88
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe736247dd0f40c0800000000000000
+      internalID: -4589434277084299535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_134
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 88
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e085dff7c43ca940800000000000000
+      internalID: 5308676094358290662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_135
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 88
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccec7c0e2365f4c0800000000000000
+      internalID: -4254385223552406324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_136
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd7391d404d42820800000000000000
+      internalID: 2892669977839762882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_137
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 71
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf1bec0ad9abf460800000000000000
+      internalID: 7276596376931868607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_138
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 71
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f111fa06c00c990a0800000000000000
+      internalID: -6874252196810125025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_139
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 71
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5510809769284cfc0800000000000000
+      internalID: -3475509429635907243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_140
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 71
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034228c8ac6699600800000000000000
+      internalID: 475524255791064112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_141
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 54
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ba6622d0b4cbff0800000000000000
+      internalID: -19057778632512732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_142
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 54
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d5d7ec27a0a1790800000000000000
+      internalID: -7558717536381084263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_143
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 54
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb0a5adc2660dfd0800000000000000
+      internalID: -2319241465267876901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_144
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 54
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0f101ae15522440800000000000000
+      internalID: 4909580133825900760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_145
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 54
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187fe8d95c429dda0800000000000000
+      internalID: -5919659804031256703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_146
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8484a17fc7bc60800000000000000
+      internalID: 7833958163832672084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_147
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 37
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4273f038a111c6e0800000000000000
+      internalID: -1819153360407530933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_148
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 37
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05fc7d54ea12b340800000000000000
+      internalID: 4877990914519004428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_149
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 37
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb33baf69536b500800000000000000
+      internalID: 411575338518395890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_150
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 37
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07020ec66adda9d70800000000000000
+      internalID: 9050790108015370352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_151
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 20
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaefacbc29dff2a30800000000000000
+      internalID: 4192848585031351978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_152
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e077eb598609c57a0800000000000000
+      internalID: -6387071392654919922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_153
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248b031967717f7f0800000000000000
+      internalID: -578968229084350398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_154
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d083f8b5b67997b70800000000000000
+      internalID: 8897309026200533005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_155
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42c6665a93594a20800000000000000
+      internalID: 3047058545232495178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_156
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03193bc2e902c1ce0800000000000000
+      internalID: -1433234717683773136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_157
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b8b5df7a96cd910800000000000000
+      internalID: 1863480516055632669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_158
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1215520bd1679b870800000000000000
+      internalID: 8699114025124188449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_159
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b928b40bcd01d8130800000000000000
+      internalID: 3570528619611259547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan pickups and hazards_160
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab816f329b3fc10800000000000000
+      internalID: 2086214616506481189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

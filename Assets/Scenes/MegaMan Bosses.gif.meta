@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: d7eab49abdcbfc84e9b55303c0876559
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -928068130331065536
+    second: MegaMan Bosses_0
+  - first:
+      213: 5819392366542631148
+    second: MegaMan Bosses_1
+  - first:
+      213: 6907559068733254094
+    second: MegaMan Bosses_2
+  - first:
+      213: 6390243248299067320
+    second: MegaMan Bosses_3
+  - first:
+      213: 929002057112519780
+    second: MegaMan Bosses_4
+  - first:
+      213: 2414521452686432552
+    second: MegaMan Bosses_5
+  - first:
+      213: -6066050101455969921
+    second: MegaMan Bosses_6
+  - first:
+      213: 8904901071715421336
+    second: MegaMan Bosses_7
+  - first:
+      213: 8009029633143384688
+    second: MegaMan Bosses_8
+  - first:
+      213: 688335257951232228
+    second: MegaMan Bosses_9
+  - first:
+      213: -1118828063958082839
+    second: MegaMan Bosses_10
+  - first:
+      213: -2945019116722476716
+    second: MegaMan Bosses_11
+  - first:
+      213: 5278431876358048752
+    second: MegaMan Bosses_12
+  - first:
+      213: -2219027399100118640
+    second: MegaMan Bosses_13
+  - first:
+      213: 6262445639382322199
+    second: MegaMan Bosses_14
+  - first:
+      213: -5584593465441215667
+    second: MegaMan Bosses_15
+  - first:
+      213: -7903392382079295497
+    second: MegaMan Bosses_16
+  - first:
+      213: 5263640613579161479
+    second: MegaMan Bosses_17
+  - first:
+      213: 6894237342623825264
+    second: MegaMan Bosses_18
+  - first:
+      213: 5902097604144333075
+    second: MegaMan Bosses_19
+  - first:
+      213: -8152714608034584325
+    second: MegaMan Bosses_20
+  - first:
+      213: 1239310992758399766
+    second: MegaMan Bosses_21
+  - first:
+      213: 9100392351307773167
+    second: MegaMan Bosses_22
+  - first:
+      213: 3557705931872254821
+    second: MegaMan Bosses_23
+  - first:
+      213: -415233386756561407
+    second: MegaMan Bosses_24
+  - first:
+      213: 5629065716698687587
+    second: MegaMan Bosses_25
+  - first:
+      213: -1295204070525810384
+    second: MegaMan Bosses_26
+  - first:
+      213: 2539845660740998514
+    second: MegaMan Bosses_27
+  - first:
+      213: 5240331936403685800
+    second: MegaMan Bosses_28
+  - first:
+      213: -2121195228050861317
+    second: MegaMan Bosses_29
+  - first:
+      213: 7102234484976255125
+    second: MegaMan Bosses_30
+  - first:
+      213: 1029584452805199469
+    second: MegaMan Bosses_31
+  - first:
+      213: -2024411267378842519
+    second: MegaMan Bosses_32
+  - first:
+      213: 5230435057626084701
+    second: MegaMan Bosses_33
+  - first:
+      213: 5288536302735472184
+    second: MegaMan Bosses_34
+  - first:
+      213: -1459831862474067512
+    second: MegaMan Bosses_35
+  - first:
+      213: -1416255999365256675
+    second: MegaMan Bosses_36
+  - first:
+      213: 5769994021143430901
+    second: MegaMan Bosses_37
+  - first:
+      213: -506981821817445128
+    second: MegaMan Bosses_38
+  - first:
+      213: -7398957468992245941
+    second: MegaMan Bosses_39
+  - first:
+      213: -8393817361517730054
+    second: MegaMan Bosses_40
+  - first:
+      213: -3152868810549036521
+    second: MegaMan Bosses_41
+  - first:
+      213: -4249244643811003985
+    second: MegaMan Bosses_42
+  - first:
+      213: -7089239125460095274
+    second: MegaMan Bosses_43
+  - first:
+      213: 4944800063156536103
+    second: MegaMan Bosses_44
+  - first:
+      213: -8815364146630271052
+    second: MegaMan Bosses_45
+  - first:
+      213: -3727001954439336131
+    second: MegaMan Bosses_46
+  - first:
+      213: 41911038934244696
+    second: MegaMan Bosses_47
+  - first:
+      213: -7053635699165573952
+    second: MegaMan Bosses_48
+  - first:
+      213: 677219940125991197
+    second: MegaMan Bosses_49
+  - first:
+      213: 7384300679035832838
+    second: MegaMan Bosses_50
+  - first:
+      213: -3353496584854601469
+    second: MegaMan Bosses_51
+  - first:
+      213: -6881826385272332837
+    second: MegaMan Bosses_52
+  - first:
+      213: 1699232578236437870
+    second: MegaMan Bosses_53
+  - first:
+      213: 2299552402859654994
+    second: MegaMan Bosses_54
+  - first:
+      213: 1773065789567161104
+    second: MegaMan Bosses_55
+  - first:
+      213: -1815529619157651425
+    second: MegaMan Bosses_56
+  - first:
+      213: -4805446630487134008
+    second: MegaMan Bosses_57
+  - first:
+      213: -7641278983772496333
+    second: MegaMan Bosses_58
+  - first:
+      213: -3660797090328297593
+    second: MegaMan Bosses_59
+  - first:
+      213: -2454617499748115552
+    second: MegaMan Bosses_60
+  - first:
+      213: 5647110690347349612
+    second: MegaMan Bosses_61
+  - first:
+      213: 4114434307376926847
+    second: MegaMan Bosses_62
+  - first:
+      213: -1086971601347518259
+    second: MegaMan Bosses_63
+  - first:
+      213: -5099367573238473181
+    second: MegaMan Bosses_64
+  - first:
+      213: -2660705128766227926
+    second: MegaMan Bosses_65
+  - first:
+      213: 7577814210090855910
+    second: MegaMan Bosses_66
+  - first:
+      213: -4334769239496194953
+    second: MegaMan Bosses_67
+  - first:
+      213: -8267860497401298240
+    second: MegaMan Bosses_68
+  - first:
+      213: 2573311093466980908
+    second: MegaMan Bosses_69
+  - first:
+      213: -6406883584966359145
+    second: MegaMan Bosses_70
+  - first:
+      213: 5746764834870416311
+    second: MegaMan Bosses_71
+  - first:
+      213: -2428115157196529989
+    second: MegaMan Bosses_72
+  - first:
+      213: 7180861599063625713
+    second: MegaMan Bosses_73
+  - first:
+      213: 7009087569043555098
+    second: MegaMan Bosses_74
+  - first:
+      213: 5836589392689694180
+    second: MegaMan Bosses_75
+  - first:
+      213: 9051620387514720734
+    second: MegaMan Bosses_76
+  - first:
+      213: -3253585170835209436
+    second: MegaMan Bosses_77
+  - first:
+      213: 4621170260747717588
+    second: MegaMan Bosses_78
+  - first:
+      213: 348150232609067742
+    second: MegaMan Bosses_79
+  - first:
+      213: 1810621692252217040
+    second: MegaMan Bosses_80
+  - first:
+      213: 3401645188081555026
+    second: MegaMan Bosses_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
