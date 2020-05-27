@@ -4,10 +4,13 @@ using UnityEngine;
 
 public class Playercollision : MonoBehaviour
 {
+    GameManager instance;
+
+
     // Start is called before the first frame update
     void Start()
     {
-
+        instance = FindObjectOfType<GameManager>();
     }
 
     // Update is called once per frame
@@ -17,14 +20,7 @@ public class Playercollision : MonoBehaviour
     }
 
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.tag == "Pickup")
-        {
-            Destroy(collision.gameObject);
-            
-        }
-    }
+    
 
 
 

@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -10,7 +11,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public Animator anim;
     public Rigidbody2D myRigidBody;
-    public int JumpForce;
+    public float JumpForce;
     public float speed;
     public bool isGrounded;
     public float groundCheckRadius;
@@ -19,9 +20,13 @@ public class PlayerMovement : MonoBehaviour
     public Bullet projectile;
     public SpriteRenderer Megamansprite;
 
+    public float jumpboost = 5.0f;
+    public float jumpboostTime = 5.0f;
+    
 
     private bool isFacingLeft = false;
 
+    Pickups instance;
 
     // Start is called before the first frame update
     void Start()
@@ -111,5 +116,22 @@ public class PlayerMovement : MonoBehaviour
 
 
 
+    }
+
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Pickup")
+        {
+            JumpForce += jumpboost;
+            StartCoroutine(StopJumpForce());
+        }   
+        Destroy (collision.gameObject);
+    }
+
+    public IEnumerator StopJumpForce()
+    {
+        yield return new WaitForSeconds(jumpboostTime);
+        JumpForce -= jumpboost;
     }
 }
