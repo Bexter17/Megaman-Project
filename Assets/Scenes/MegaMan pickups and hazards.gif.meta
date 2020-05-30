@@ -328,7 +328,7 @@ TextureImporter:
     second: MegaMan pickups and hazards_107
   - first:
       213: 851009911828904935
-    second: MegaMan pickups and hazards_108
+    second: HardHat Bullet
   - first:
       213: 6926028332230593919
     second: MegaMan pickups and hazards_109
@@ -2838,7 +2838,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MegaMan pickups and hazards_108
+      name: HardHat Bullet
       rect:
         serializedVersion: 2
         x: 156

@@ -22,7 +22,7 @@ public class PlayerMovement : MonoBehaviour
 
     public float jumpboost = 5.0f;
     public float jumpboostTime = 5.0f;
-    
+
 
     private bool isFacingLeft = false;
 
@@ -44,7 +44,7 @@ public class PlayerMovement : MonoBehaviour
             JumpForce = 5;
         }
 
-       if (!groundCheck)
+        if (!groundCheck)
         {
             Debug.Log("Groundcheck is not found ");
         }
@@ -64,11 +64,11 @@ public class PlayerMovement : MonoBehaviour
         anim.SetBool("Fire1", Fire1);
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, isGroundLayer);
 
-        
+
 
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
-            
+
             myRigidBody.velocity = Vector2.zero;
 
             myRigidBody.AddForce(Vector2.up * JumpForce);
@@ -85,8 +85,8 @@ public class PlayerMovement : MonoBehaviour
         anim.SetBool("Jump", isGrounded);
 
 
-       
-        if(horizontalInput > 0 && isFacingLeft || horizontalInput < 0 && !isFacingLeft)
+
+        if (horizontalInput > 0 && isFacingLeft || horizontalInput < 0 && !isFacingLeft)
         {
             flip();
         }
@@ -106,32 +106,47 @@ public class PlayerMovement : MonoBehaviour
 
         else Fire1 = false;
 
-      
+
 
         myRigidBody.velocity = new Vector2(moveValue * speed, myRigidBody.velocity.y);
 
 
 
-        
+
 
 
 
     }
 
 
-    void OnTriggerEnter2D(Collider2D collision)
+    public void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Pickup")
         {
             JumpForce += jumpboost;
             StartCoroutine(StopJumpForce());
-        }   
-        Destroy (collision.gameObject);
+        }
+        Destroy(collision.gameObject);
     }
+
+    
 
     public IEnumerator StopJumpForce()
     {
         yield return new WaitForSeconds(jumpboostTime);
         JumpForce -= jumpboost;
     }
+
+
+    void OnCollisionEnter2D(Collision2D c)
+    {
+        if (c.gameObject.tag == "Enemy Projectile")
+        {
+            Destroy(c.gameObject);            
+        }
+
+    }
+
+    
+    
 }

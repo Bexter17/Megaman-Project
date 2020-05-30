@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Pickup
   - Projectiles
+  - Enemy Projectile
+  - EnemyTurret
+  - Enemy
+  - Ground
+  - Box
   layers:
   - Default
   - TransparentFX

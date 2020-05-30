@@ -4,10 +4,10 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -4212460223476076497
-    second: Megaman enemies_0
+    second: HelifaceL
   - first:
       213: -2664377124284240316
-    second: Megaman enemies_1
+    second: HelifaceR
   - first:
       213: -7617949390770664957
     second: Megaman enemies_2
@@ -178,10 +178,10 @@ TextureImporter:
     second: Megaman enemies_57
   - first:
       213: -8093466187605471483
-    second: Megaman enemies_58
+    second: HardHatShoot
   - first:
       213: -3879862905143393818
-    second: Megaman enemies_59
+    second: HardHatHide
   - first:
       213: -1784960773386512555
     second: Megaman enemies_60
@@ -543,7 +543,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Megaman enemies_0
+      name: HelifaceL
       rect:
         serializedVersion: 2
         x: 73
@@ -564,7 +564,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman enemies_1
+      name: HelifaceR
       rect:
         serializedVersion: 2
         x: 91
@@ -1761,7 +1761,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman enemies_58
+      name: HardHatShoot
       rect:
         serializedVersion: 2
         x: 13
@@ -1782,7 +1782,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Megaman enemies_59
+      name: HardHatHide
       rect:
         serializedVersion: 2
         x: 34
