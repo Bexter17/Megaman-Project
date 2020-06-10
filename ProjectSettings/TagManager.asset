@@ -11,6 +11,8 @@ TagManager:
   - Enemy
   - Ground
   - Box
+  - camerafollow
+  - SpawnPoint
   layers:
   - Default
   - TransparentFX
