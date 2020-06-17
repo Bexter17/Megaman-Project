@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -53,6 +54,27 @@ public class GameManager : MonoBehaviour
         }
         
     }
+
+    public void StartGame()
+    {
+        SceneManager.LoadScene("GameScene");
+    }
+
+    public void Return()
+    {
+        SceneManager.LoadScene("TitleScreen");
+    }
+
+    public void QuitGame()
+    {
+#if UNITY_EDITOR
+        EditorApplication.isPlaying = false;
+#else
+        Application.Quit();
+#endif
+    }
+
+
 
     public void SpawnPlayer(Transform spawnLocation)
     {

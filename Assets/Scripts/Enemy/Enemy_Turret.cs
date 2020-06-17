@@ -89,7 +89,7 @@ public class Enemy_Turret : MonoBehaviour
 
             if (health <= 0)
             {
-                Destroy(gameObject);
+                Destroy(gameObject);               
             }
         }
     }
@@ -110,7 +110,7 @@ public class Enemy_Turret : MonoBehaviour
             if (Time.time > timeSinceLastFire + projectileFireRate)
             {
                 Shoot();
-                timeSinceLastFire = Time.time;
+                timeSinceLastFire = Time.time;                
             }
         }
     }

@@ -125,8 +125,9 @@ public class PlayerMovement : MonoBehaviour
         {
             JumpForce += jumpboost;
             StartCoroutine(StopJumpForce());
+            Destroy(collision.gameObject);
         }
-        Destroy(collision.gameObject);
+       
     }
 
     
@@ -142,7 +143,8 @@ public class PlayerMovement : MonoBehaviour
     {
         if (c.gameObject.tag == "Enemy Projectile")
         {
-            Destroy(c.gameObject);            
+            Destroy(c.gameObject);
+            
         }
 
     }
