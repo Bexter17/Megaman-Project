@@ -6,11 +6,13 @@ public class Playercollision : MonoBehaviour
 {
     public Transform spawnPoint;
 
+    
+
 
     // Start is called before the first frame update
     void Start()
     {
-        spawnPoint = GameObject.FindGameObjectWithTag("SpawnPoint").GetComponent<Transform>();
+       // spawnPoint = GameObject.FindGameObjectWithTag("SpawnPoint").GetComponent<Transform>();
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -19,8 +21,8 @@ public class Playercollision : MonoBehaviour
         {
             GameManager.instance.life -= 1;
             Destroy(collision.gameObject);
-            GameManager.instance.SpawnPlayer(spawnPoint);
-            Destroy(gameObject);
+           // GameManager.instance.SpawnPlayer(spawnPoint);
+           // Destroy(gameObject);
         }
     }
     // Update is called once per frame
@@ -29,17 +31,19 @@ public class Playercollision : MonoBehaviour
         if (gameObject.transform.position.y < -1.27)
         {
             GameManager.instance.life -= 1;
-            GameManager.instance.SpawnPlayer(spawnPoint);
+           // GameManager.instance.SpawnPlayer(spawnPoint);
             Destroy(gameObject);
         }
+              
+        
+
+
+
     }
+}
 
 
     
-
-
-
-}
 
 
 

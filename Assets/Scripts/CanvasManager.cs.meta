@@ -3,7 +3,13 @@ guid: 4a294c1ba029149469ffc6eb140fcdbb
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - startButton: {instanceID: 0}
+  - quitButton: {instanceID: 0}
+  - returnButton: {instanceID: 0}
+  - pauseMenu: {instanceID: 0}
+  - pauseSFX: {fileID: 8300000, guid: 49e2d5e9ad986034599e9ee0926305c0, type: 3}
+  - pauseAudio: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

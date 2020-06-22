@@ -16,6 +16,9 @@ public class GameManager : MonoBehaviour
 
     public GameObject playerPrefab;
 
+    public AudioClip deathSFX;
+    public AudioSource deathAudio;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -76,10 +79,10 @@ public class GameManager : MonoBehaviour
 
 
 
-    public void SpawnPlayer(Transform spawnLocation)
-    {
-        Instantiate(playerPrefab, spawnLocation.position, spawnLocation.rotation);
-    }
+   // public void SpawnPlayer(Transform spawnLocation)
+   // {
+   //     Instantiate(playerPrefab, spawnLocation.position, spawnLocation.rotation);
+   // }
 
     public static GameManager instance
     {
@@ -105,10 +108,14 @@ public class GameManager : MonoBehaviour
             if (_life > maxLife)
                 _life = maxLife;
             else if (_life < 0)
-                SceneManager.LoadScene("GameOverScreen");
+            
+                
+            SceneManager.LoadScene("GameOverScreen");
+            
 
             Debug.Log("Life has increased to " + _life);
         }
+
     }
 
 

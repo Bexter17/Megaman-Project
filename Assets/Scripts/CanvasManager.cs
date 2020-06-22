@@ -16,6 +16,9 @@ public class CanvasManager : MonoBehaviour
 
     public GameObject pauseMenu;
 
+    public AudioClip pauseSFX;
+    public AudioSource pauseAudio;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -40,17 +43,25 @@ public class CanvasManager : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.P))
         {
             pauseMenu.SetActive(!pauseMenu.activeSelf);
+            pauseAudio.clip = pauseSFX;
+            pauseAudio.Play();
         }
         if (pauseMenu)
         {
             if (pauseMenu.activeSelf)
             {
                 Time.timeScale = 0.0f;
+                
+                AudioListener.pause = true;
             }
             else
             {
                 Time.timeScale = 1.0f;
+                AudioListener.pause = false;
             }
+
+           
+
         }
     }
 

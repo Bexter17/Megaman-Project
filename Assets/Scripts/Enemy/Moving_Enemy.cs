@@ -11,6 +11,8 @@ public class Moving_Enemy : MonoBehaviour
     public bool facingLeft;
     public float speed;
 
+    public AudioClip damageSFX;
+    public AudioSource playerAudio;
 
     // Start is called before the first frame update
     void Start()
@@ -51,7 +53,20 @@ public class Moving_Enemy : MonoBehaviour
         }
     }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Projectiles")
+        {
+            health--;
 
+            if (health <= 0)
+            {
+                Destroy(gameObject);
+            }
+            playerAudio.clip = damageSFX;
+            playerAudio.Play();
+        }
+    }
 
 
 }

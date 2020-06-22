@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Level : MonoBehaviour
 {
-    public Transform spawnPoint;
+    //public Transform spawnPoint;
     public int startinglives;
 
 
@@ -12,7 +12,7 @@ public class Level : MonoBehaviour
     void Start()
     {
         GameManager.instance.life = startinglives;
-        GameManager.instance.SpawnPlayer(spawnPoint);
+        //GameManager.instance.SpawnPlayer(spawnPoint);
     }
 
     // Update is called once per frame

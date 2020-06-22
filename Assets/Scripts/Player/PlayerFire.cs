@@ -12,6 +12,9 @@ public class PlayerFire : MonoBehaviour
     public float projectileSpeed;
     public Projectile projectilePrefab;
 
+    public AudioClip fireSFX;
+    public AudioSource playerAudio;
+
 
     // Start is called before the first frame update
     void Start()
@@ -28,6 +31,7 @@ public class PlayerFire : MonoBehaviour
         if (Input.GetButtonDown("Fire1"))
         {
             shot();
+           
         }
     }
 
@@ -42,8 +46,11 @@ public class PlayerFire : MonoBehaviour
         {
              Instantiate(projectilePrefab, spawnpoint.position, spawnpoint.rotation);
         }
-       // Projectile temp = Instantiate(projectilePrefab, spawnpoint.position, spawnpoint.rotation);
 
-       // temp.speed = -projectileSpeed;
+        playerAudio.clip = fireSFX;
+        playerAudio.Play();
+        // Projectile temp = Instantiate(projectilePrefab, spawnpoint.position, spawnpoint.rotation);
+
+        // temp.speed = -projectileSpeed;
     }
 }

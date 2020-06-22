@@ -18,6 +18,9 @@ public class Enemy_Turret : MonoBehaviour
 
     public int health;
 
+    public AudioClip damageSFX;
+    public AudioClip fireSFX;
+    public AudioSource playerAudio;
 
     // Start is called before the first frame update
     void Start()
@@ -65,7 +68,9 @@ public class Enemy_Turret : MonoBehaviour
 
     void Shoot()
     {
+
         anim.SetBool("Shoot", true);
+       
 
         shootDirectionCheck();
         if (shootLeft)
@@ -78,6 +83,9 @@ public class Enemy_Turret : MonoBehaviour
             Instantiate(projectilePrefab, rightSpawnPoint.position,
             Quaternion.Euler(new Vector3(0, 180.0f, 0)));
         }
+        anim.SetBool("Shoot", false);
+
+        
 
     }
 
@@ -86,11 +94,13 @@ public class Enemy_Turret : MonoBehaviour
         if (collision.gameObject.tag == "Projectiles")
         {
             health--;
-
+                                 
             if (health <= 0)
             {
                 Destroy(gameObject);               
             }
+            playerAudio.clip = damageSFX;
+            playerAudio.Play();
         }
     }
 
@@ -110,8 +120,12 @@ public class Enemy_Turret : MonoBehaviour
             if (Time.time > timeSinceLastFire + projectileFireRate)
             {
                 Shoot();
-                timeSinceLastFire = Time.time;                
+                timeSinceLastFire = Time.time;
+
+                playerAudio.clip = fireSFX;
+                playerAudio.Play();
             }
+           
         }
     }
 

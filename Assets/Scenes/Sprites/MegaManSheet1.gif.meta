@@ -124,10 +124,10 @@ TextureImporter:
     second: MegaManSheet1_39
   - first:
       213: 5929975175338950694
-    second: MegaManSheet1_40
+    second: MegaMandamage1
   - first:
       213: -3423720685453177140
-    second: MegaManSheet1_41
+    second: MegaMandamage2
   - first:
       213: 2023081691651564574
     second: MegaManClimb1
@@ -2127,7 +2127,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MegaManSheet1_40
+      name: MegaMandamage1
       rect:
         serializedVersion: 2
         x: 172
@@ -2148,7 +2148,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MegaManSheet1_41
+      name: MegaMandamage2
       rect:
         serializedVersion: 2
         x: 200

@@ -28,11 +28,18 @@ public class PlayerMovement : MonoBehaviour
 
     Pickups instance;
 
+    public AudioClip damageSFX;
+    public AudioClip landSFX;
+    public AudioSource playerAudio;
+
+    public bool hasLanded = false;
+
     // Start is called before the first frame update
     void Start()
     {
         myRigidBody = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        playerAudio = GetComponent<AudioSource>();
 
         if (speed <= 0)
         {
@@ -72,9 +79,9 @@ public class PlayerMovement : MonoBehaviour
             myRigidBody.velocity = Vector2.zero;
 
             myRigidBody.AddForce(Vector2.up * JumpForce);
-
-
+            
         }
+
 
         float horizontalInput = Input.GetAxisRaw("Horizontal");
 
@@ -111,12 +118,20 @@ public class PlayerMovement : MonoBehaviour
         myRigidBody.velocity = new Vector2(moveValue * speed, myRigidBody.velocity.y);
 
 
-
-
-
-
-
+        if (isGrounded)
+        {
+            if (!hasLanded)
+            {
+                hasLanded = true;
+                AudioSource.PlayClipAtPoint(landSFX, transform.position);
+                
+            }
+        }
+       
     }
+
+
+
 
 
     public void OnTriggerEnter2D(Collider2D collision)
@@ -143,9 +158,19 @@ public class PlayerMovement : MonoBehaviour
     {
         if (c.gameObject.tag == "Enemy Projectile")
         {
+            anim.SetBool("Damage", true);
+            playerAudio.clip = damageSFX;
+            playerAudio.Play();
             Destroy(c.gameObject);
             
         }
+
+        if (c.gameObject.tag == "Enemy")
+        {
+            GameManager.instance.life -= 1;
+
+        }
+
 
     }
 
