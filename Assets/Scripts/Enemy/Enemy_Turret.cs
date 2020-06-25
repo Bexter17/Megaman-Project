@@ -69,7 +69,7 @@ public class Enemy_Turret : MonoBehaviour
     void Shoot()
     {
 
-        anim.SetBool("Shoot", true);
+        anim.SetTrigger("Shoot");
        
 
         shootDirectionCheck();
@@ -83,8 +83,8 @@ public class Enemy_Turret : MonoBehaviour
             Instantiate(projectilePrefab, rightSpawnPoint.position,
             Quaternion.Euler(new Vector3(0, 180.0f, 0)));
         }
-        anim.SetBool("Shoot", false);
 
+        anim.SetTrigger("NoShoot");
         
 
     }

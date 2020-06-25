@@ -13,6 +13,8 @@ TagManager:
   - Box
   - camerafollow
   - SpawnPoint
+  - Ladder
+  - Camera
   layers:
   - Default
   - TransparentFX

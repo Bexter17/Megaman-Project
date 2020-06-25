@@ -133,7 +133,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 2
+  m_Constraints: 6
 --- !u!95 &8219587645815863066
 Animator:
   serializedVersion: 3
@@ -168,8 +168,8 @@ MonoBehaviour:
   health: 1
   facingLeft: 1
   speed: 1
-  damageSFX: {fileID: 0}
-  playerAudio: {fileID: 0}
+  damageSFX: {fileID: 8300000, guid: 5370ba7f03aa9e04c917dc78c38f20d5, type: 3}
+  playerAudio: {fileID: -1862308106013354439}
 --- !u!82 &-1862308106013354439
 AudioSource:
   m_ObjectHideFlags: 0
@@ -180,7 +180,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 5370ba7f03aa9e04c917dc78c38f20d5, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1

@@ -207,7 +207,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   leftSpawnPoint: {fileID: 5130239498518587838}
   rightSpawnPoint: {fileID: 5130239498626078380}
-  projectilePrefab: {fileID: 0}
+  projectilePrefab: {fileID: 176818752835523005, guid: d0512d651d8d7434a80e0f3e419f0354,
+    type: 3}
   projectileForce: 0
   shootLeft: 1
   target: {fileID: 764099246207941367, guid: 02f9ccb49cf4a1a4984e40baaf072002, type: 3}

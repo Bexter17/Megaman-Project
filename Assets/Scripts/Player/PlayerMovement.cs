@@ -174,6 +174,15 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
-    
-    
+    private void OnCollisionEnter2d(Collision collision)
+    {
+        if(collision.gameObject.tag == "Camera")
+        {
+            anim.SetTrigger("Cam");
+                
+                
+        }
+    }
+
+
 }
